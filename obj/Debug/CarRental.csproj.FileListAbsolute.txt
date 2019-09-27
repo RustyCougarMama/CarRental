@@ -1,0 +1,7 @@
+D:\School\Solutions\CarRental\bin\Debug\CarRental.exe.config
+D:\School\Solutions\CarRental\bin\Debug\CarRental.exe
+D:\School\Solutions\CarRental\bin\Debug\CarRental.pdb
+D:\School\Solutions\CarRental\obj\Debug\CarRental.csprojAssemblyReference.cache
+D:\School\Solutions\CarRental\obj\Debug\CarRental.csproj.CoreCompileInputs.cache
+D:\School\Solutions\CarRental\obj\Debug\CarRental.exe
+D:\School\Solutions\CarRental\obj\Debug\CarRental.pdb
